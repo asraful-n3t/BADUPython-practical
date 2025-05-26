@@ -8,7 +8,7 @@ Practical codes for BADUP = Basic Application Development Using Python.
 
 | No. | Question                             | File Name                            |
 |-----|--------------------------------------|--------------------------------------|
-| 1.  | Print "Hello, World!"                | [Q1_hello_world.py](Q1_hello_world.py) |
+| 1.  | Print Hello World                    | [Q1_hello_world.py](Q1_hello_world.py) |
 | 2.  | Add two numbers and print result     | [Q2_add_two_numbers.py](Q2_add_two_numbers.py) |
 | 3.  | Greet user by name input             | [Q3_name_greeting.py](Q3_name_greeting.py) |
 | 4.  | Check even or odd                    | [Q4_even_or_odd.py](Q4_even_or_odd.py) |
