@@ -5,8 +5,6 @@ Basic Application Development Using Python
 Practical codes for BADUP = Basic Application Development Using Python.
 
 
-## 🔢 Question List
-
 | No. | Question                             | File Name                            |
 |-----|--------------------------------------|--------------------------------------|
 | 1.  | Print Hello World                    | [Q01_hello_world.py](Q01_hello_world.py) |
@@ -19,6 +17,7 @@ Practical codes for BADUP = Basic Application Development Using Python.
 | 8.  | Check positive, negative or zero     | [Q08_pos_neg_zero.py](Q08_pos_neg_zero.py) |
 | 9.  | Swap two variables                   | [Q09_swap_values.py](Q09_swap_values.py) |
 | 10. | Celsius to Fahrenheit converter      | [Q10_celsius_to_fahrenheit.py](Q10_celsius_to_fahrenheit.py) |
+
 
 
 That's all.
