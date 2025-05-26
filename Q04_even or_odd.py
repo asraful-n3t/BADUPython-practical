@@ -1,6 +1,7 @@
 # Write a program that checks whether a number is even or odd. 
   
 
+
 A = int(input("Enter a number: "))
 
 if A == 0:
